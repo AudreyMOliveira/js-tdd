@@ -1,0 +1,24 @@
+{
+  "name": "cursojs",
+  "version": "1.0.0",
+  "description": "package js com tdd lib.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AudreyMOliveira/js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Audrey Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AudreyMOliveira/js-tdd/issues"
+  },
+  "homepage": "https://github.com/AudreyMOliveira/js-tdd#readme"
+}
